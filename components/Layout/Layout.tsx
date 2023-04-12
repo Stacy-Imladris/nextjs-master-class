@@ -1,6 +1,6 @@
 import {NextPage} from 'next';
 import {PropsWithChildren} from 'react';
-import {Header} from '../Header/Header';
+import {Header} from 'components/Header/Header';
 import styled from 'styled-components';
 
 export const Layout: NextPage<PropsWithChildren> = (props) => {

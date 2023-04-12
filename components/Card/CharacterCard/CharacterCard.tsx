@@ -1,4 +1,4 @@
-import {Card} from '../Card';
+import {Card} from 'components/Card/Card';
 import styled from 'styled-components';
 import Image from 'next/image';
 import Link from 'next/link';
